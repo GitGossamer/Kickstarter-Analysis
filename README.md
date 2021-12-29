@@ -24,7 +24,7 @@ The data analyzed here will offer Louise insight into how other campaigns fared 
 
 The COUNTIFS formula was used to collect the outcome and goal data for the “plays” subcategory. The analysis shows volumes and % of each individual category: “successful”, “failed”, and “canceled”. This data was presented in a pivot table and then visualized in a line chart to reflect trends over each individual goal range.
 
-![Outcomes_Based on Goal](https://user-images.githubusercontent.com/96449605/147701376-babf8452-a3fc-421c-83ba-b23cb98b72f6.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96449605/147701621-01d36ed2-f170-4d4c-9c99-d8f4016437c8.png)
 
 ### Challenges and Difficulties Encountered
 Specific challenges related to accurately and manually entering all of the appropriate formulas and ranges to correctly reflect the data outcomes. Due to this process, there is ample room for human error.
