@@ -16,12 +16,15 @@ Leveraging the COUNTIFS formula, we were able to visualize the relevant data in 
 The data analyzed here will offer Louise insight into how other campaigns fared with her Fever campaign based on launch date.
 
 Analysis performed on Launch Date was filtered on “Parent Category” and “Years”, then broken down by month for each individual category of “successful”, “failed”, and “canceled”. This data was presented in both a pivot table and a pivot chart to visualize trends for each category listed above.
+
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/96449605/147700186-acf20aca-8609-490d-95fb-a5f42df45f82.png)
 
 ### Analysis of Outcomes Based on Goals
 The data analyzed here will offer Louise insight into how other campaigns fared with her Fever campaign based on goals.
 
 The COUNTIFS formula was used to collect the outcome and goal data for the “plays” subcategory. The analysis shows volumes and % of each individual category: “successful”, “failed”, and “canceled”. This data was presented in a pivot table and then visualized in a line chart to reflect trends over each individual goal range.
+
+![Outcomes_Based on Goal](https://user-images.githubusercontent.com/96449605/147701376-babf8452-a3fc-421c-83ba-b23cb98b72f6.png)
 
 ### Challenges and Difficulties Encountered
 Specific challenges related to accurately and manually entering all of the appropriate formulas and ranges to correctly reflect the data outcomes. Due to this process, there is ample room for human error.
