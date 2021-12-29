@@ -1,4 +1,4 @@
-# Kickstarter-Analysis
+# An Analysis of Kickstarter Campaigns
 Module 1 practice work. Performing analysis on Kickstarter data to discover trends.
 
 # Kickstarting with Excel
